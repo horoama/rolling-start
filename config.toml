@@ -1,3 +1,17 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ローリングスターート公式サイト"
+theme = "hugograyscale"
+disableKinds = ["taxonomy",  "taxonomyTerm"]
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+# Provide some metadata for search and indexing services
+description = "速く、果て<br>"
+
+[Author]
+name = "ローリングスターート製作委員会"
+email = ""
+
+[Social]
+twitter = ""
