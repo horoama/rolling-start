@@ -7,7 +7,7 @@ unsafe= true
 
 [params]
 # Provide some metadata for search and indexing services
-description = "速く、果て<br>"
+description = ""
 
 [Author]
 name = "ローリングスターート製作委員会"
