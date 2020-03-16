@@ -5,8 +5,5 @@ copyright: "ローリングスターート製作委員会"
 description: ""
 
 menu:
-    - {url: "/news",  name: "NEWS"}
-    - {url: "/story",  name: "STORY"}
-    - {url: "/onair",  name: "ONAIR"}
-    - {url: "/character",  name: "CHARACTER"}
+    - {url: "/contact",  name: "CONTACT"}
 ---

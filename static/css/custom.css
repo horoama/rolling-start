@@ -1,7 +1,6 @@
 body {
   font-family: 'M PLUS Rounded 1c', 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: white;
-  background-color: #208e20;
 }
 
 .wf-mplus { font-family: "M PLUS Rounded 1c"; }
@@ -19,3 +18,18 @@ span {
 .improve-contrast-box {
     padding: 20px;
 }
+
+#sec-ind-1 {
+  color: white;
+  background-image: none;
+  background: none;
+  background-color: #208e20;
+}
+
+#sec-ind-2 {
+  color: white;
+  background-image: none;
+  background: none;
+  background-color: #608e60;
+}
+
