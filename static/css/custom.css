@@ -1,0 +1,17 @@
+body {
+  font-family: 'M PLUS Rounded 1c', 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: white;
+  background-color: #208e20;
+}
+
+.wf-mplus { font-family: "M PLUS Rounded 1c"; }
+span {
+  display: inline-block;
+}
+@media (min-width: 1280px) {
+  section {
+    font-size: 24px;
+  }
+}
+
+
