@@ -5,13 +5,17 @@ body {
 }
 
 .wf-mplus { font-family: "M PLUS Rounded 1c"; }
+
 span {
   display: inline-block;
 }
+
 @media (min-width: 1280px) {
   section {
     font-size: 24px;
   }
 }
 
-
+.improve-contrast-box {
+    padding: 20px;
+}
