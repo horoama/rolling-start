@@ -1,16 +1,7 @@
 ---
 title: "ローリングスターート"
 weight: 0
-improvecontrast: true
+improvecontrast: false
 ---
-<div class="display-1">
-<font color="white">
-<span>
-ローリング
-</span>
-</br>
-<span>
-スタート
-</span>
-</font>
-</div>
+
+<img src="/img/main_visual.png" style="height: auto;max-width: 100%;" class="mx-auto d-block" alt="ローーリングスタートメインビジュアル">

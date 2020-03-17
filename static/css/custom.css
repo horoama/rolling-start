@@ -8,10 +8,12 @@ body {
 span {
   display: inline-block;
 }
-
-@media (min-width: 1280px) {
+section {
+  font-size: "2.2vw";
+}
+@media (min-width: 720px) {
   section {
-    font-size: 24px;
+    font-size: 20px;
   }
 }
 
