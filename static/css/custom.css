@@ -25,7 +25,7 @@ section {
   color: white;
   background-image: none;
   background: none;
-  background-color: #208e20;
+  background-color: #206e20;
 }
 
 #sec-ind-2 {
@@ -39,6 +39,23 @@ section {
   color: white;
   background-image: none;
   background: none;
-  background-color: #60B060;
+  background-color: #305080;
 }
-
+#sec-ind-4 {
+  color: white;
+  background-image: none;
+  background: none;
+  background-color: #a0a0a0;
+}
+#sec-ind-5 {
+  color: white;
+  background-image: none;
+  background: none;
+  background-color: #204040;
+}
+#sec-ind-6 {
+  color: white;
+  background-image: none;
+  background: none;
+  background-color: #203030;
+}
