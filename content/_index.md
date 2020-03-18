@@ -5,5 +5,5 @@ copyright: "ローリングスターート製作委員会"
 description: ""
 
 menu:
-    - {url: "/contact",  name: "CONTACT"}
+#    - {url: "/contact",  name: "CONTACT"}
 ---
